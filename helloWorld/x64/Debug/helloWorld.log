@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\vs2017\workspace\helloworld\main.cpp(11): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1271): note: 参见“_sleep”的声明
+  helloWorld.vcxproj -> F:\VS2017\workspace\helloWorld\x64\Debug\helloWorld.exe
+  helloWorld.vcxproj -> F:\VS2017\workspace\helloWorld\x64\Debug\helloWorld.pdb (Partial PDB)
